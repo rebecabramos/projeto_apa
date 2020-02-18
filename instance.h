@@ -14,8 +14,8 @@ class Instance{
 
     public:
     Instance(string nomeArquivo);
+    int VMP();
 
-    int getTamanho();
 };
 
 #endif
